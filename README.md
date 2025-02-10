@@ -1,6 +1,6 @@
-<a href="https://extrapolate.app">
-  <img alt="Extrapolate – See how well you age with AI" src="https://extrapolate.app/api/og">
-  <h1 align="center">Extrapolate</h1>
+<a href="https://agelens.com/ai-age-progression-free">
+  <img alt="AgeLens – See how well you age with AI" src="https://agelens.com/ai-age-progression-free">
+  <h1 align="center">AgeLens Free Online Aging Face Filter</h1>
 </a>
 
 <p align="center">
@@ -8,27 +8,18 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/steventey">
-    <img src="https://img.shields.io/twitter/follow/steventey?style=flat&label=steventey&logo=twitter&color=0bf&logoColor=fff" alt="Steven Tey Twitter follower count" />
-  </a>
-  <a href="https://github.com/steven-tey/extrapolate">
-    <img src="https://img.shields.io/github/stars/steven-tey/extrapolate?label=steven-tey%2Fextrapolate" alt="Extrapolate repo star count" />
-  </a>
-</p>
-
-<p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#features"><strong>Features</strong></a> ·
   <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
+  <a href="#Maintainer"><strong>Maintainer</strong></a> ·
   <a href="#author"><strong>Author</strong></a>
 </p>
 <br/>
 
---NEW README COMING SOON--
 
 ## Introduction
 
-Extrapolate is an app for you to see how well you age by transforming your face with Artificial Intelligence.
+AgeLens is an app for you to see how well you age by transforming your face with Artificial Intelligence.
 
 https://user-images.githubusercontent.com/28986134/213781048-d215894d-2286-4176-a200-f745b255ecbe.mp4
 
@@ -123,6 +114,15 @@ export default {
 
 </details>
 
+
+## Maintainer
+
+- Naz Avo (X: [@naz_avo](https://twitter.com/naz_avo), blog: [nazavo.com](https://nazavo.com))
+
 ## Author
 
 - Steven Tey ([@steventey](https://twitter.com/steventey))
+
+
+## Try Free Age Filter
+Try aging your face for free at [AgeLens free aging filter](https://agelens.com/ai-age-progression-free)
